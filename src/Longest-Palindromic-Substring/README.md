@@ -27,4 +27,4 @@ First, we loop through the entire string (with an additional loop to set `j`), a
 
 If they do, we decrement the left pointer and update the right until left can go no further than `-1`. We calculate the sum by subtracting the larger number right with the smaller number left, and removing one (as left is probably `-1`?).
 
-From here, we set max_substring to be the range of left to right.
+From here, we set `max_substring` to be the range of left to right.
