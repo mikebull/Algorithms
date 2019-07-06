@@ -13,3 +13,4 @@ This is an easy to read reference to common Algorithm questions from sites like 
 | Insert into a Binary Search Tree | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Insert-into-a-Binary-Search-Tree) |
 | Maximum Binary Tree | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Maximum-Binary-Tree) |
 | Remove Outermost Parentheses | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Remove-Outermost-Parentheses) |
+| Unique Morse Code Words | [Ruby]https://github.com/mikebull/Algorithms/tree/master/src/Unique-Morse-Code-Words) |
