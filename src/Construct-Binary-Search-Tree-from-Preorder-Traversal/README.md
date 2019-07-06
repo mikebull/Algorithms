@@ -15,7 +15,7 @@ Input: [8,5,1,7,10,12]
 Output: [8,5,10,1,7,null,12]
 ```
  
-**Note: **
+**Note:**
 
 1. `1 <= preorder.length <= 100`
 2. The values of `preorder` are distinct.
