@@ -15,3 +15,4 @@ This is an easy to read reference to common Algorithm questions from sites like 
 | Remove Outermost Parentheses | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Remove-Outermost-Parentheses) |
 | Unique Morse Code Words | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Unique-Morse-Code-Words) |
 | Construct Binary Search Tree from Preorder Traversal | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Construct-Binary-Search-Tree-from-Preorder-Traversal) |
+| Defanging an IP Address | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Defanging-an-IP-Address) |
