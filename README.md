@@ -17,3 +17,4 @@ This is an easy to read reference to common Algorithm questions from sites like 
 | Construct Binary Search Tree from Preorder Traversal | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Construct-Binary-Search-Tree-from-Preorder-Traversal) |
 | Defanging an IP Address | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Defanging-an-IP-Address) |
 | Flipping an Image | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Flipping-an-Image) |
+| Binary Tree Inorder Traversal | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Binary-Tree-Inorder-Traversal) |
