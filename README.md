@@ -19,3 +19,5 @@ This is an easy to read reference to common Algorithm questions from sites like 
 | Flipping an Image | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Flipping-an-Image) |
 | Binary Tree Inorder Traversal | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Binary-Tree-Inorder-Traversal) |
 | Valid Palindrome | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Valid-Palindrome) |
+| Sort Array By Parity | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Sort-Array-By-Parity) |
+| Diagonal Traverse | 
