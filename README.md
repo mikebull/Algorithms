@@ -22,3 +22,4 @@ This is an easy to read reference to common Algorithm questions from sites like 
 | Sort Array By Parity | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Sort-Array-By-Parity) |
 | Reveal Cards In Increasing Order | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Reveal-Cards-In-Increasing-Order) |
 | Letter Tile Possibilities | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Letter-Tile-Possibilities) |
+| Most Common Word | [Ruby](https://github.com/mikebull/Algorithms/tree/master/src/Most-Common-Word) |
